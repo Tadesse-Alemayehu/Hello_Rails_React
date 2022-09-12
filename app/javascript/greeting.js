@@ -8,7 +8,10 @@ export default function Greeting() {
   return (
     <div>
       <p>Hello from greeting</p>
-      {greeting.message}
+      <button onClick={() => dispatch(getRandomGreetingAction())}>
+        Generate a new greeting message
+      </button>
+      <h3>{greeting.message}</h3>
     </div>
   );
 }
