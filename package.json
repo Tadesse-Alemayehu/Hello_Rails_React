@@ -10,9 +10,13 @@
     "@babel/preset-react": "^7.18.6",
     "babel-loader": "^8.2.5",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-redux": "^8.0.2",
+    "redux": "^4.2.0",
+    "thunk": "^0.0.1"
   },
   "devDependencies": {
+    "redux-logger": "^3.0.6",
     "webpack-cli": "^4.10.0"
   }
 }
