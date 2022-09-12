@@ -1,38 +1,51 @@
-# Blog app
+# Hello-Rails-React
 
-> The Blog app will be a classic example of a blog website. I will create a fully functional website that will show the list of posts and empower readers to interact with them by adding comments and liking posts.
+> Rails app using react
 
 ## Built With
 
 - ROR
 - Postgresql
+- React
+- Redux
 
 ## Getting Started
 
-1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Rail-blog-app)
+1. Open [dev branch](https://github.com/Tadesse-Alemayehu/Hello_Rails_React)
 2. Open VSCode or terminal and navigate to the folder where you would like to clone the project.
 3. Type "pwd" to see your working directory.
-4. [clone repository] Install gems by running
-   Start the server by running
+4. [clone repository]
+5. Install gems.
 
-```bash
-rails s
-```
+   ```ruby
+   bundle install
+   ```
 
-7. Enjoy 😎
+6. Install Node package
+   ```node
+   npm install
+   ```
+7. build react
+   ```node
+   npm run build
+   ```
+8. Start the server by running
+
+   ```bash
+   rails s
+   ```
+
+9. Enjoy 😎
 
 ### Prerequisites
 
-You must have Ruby installed on your computer.
-You must have rails installed on your computer.
+> You must have Ruby installed on your computer.
+> You must have node installed on your computer.
+> You must have rails installed on your computer.
 
 ### Clone this repo
 
-`git clone git@github.com:marilirulita/Rail-blog-app`
-
-### In your terminal:
-
-`ruby main.rb`
+`git clone git@github.com:marilirulita/Hello_Rails_React`
 
 ## Authors
 
@@ -41,18 +54,6 @@ You must have rails installed on your computer.
 - GitHub: [@Tadess-Alemayehu](https://github.com/Tadesse-Alemayehu)
 - Twitter: [@TadesseWebDev](https://twitter.com/TadesseWebDev)
 - LinkedIn: [Tadesse Alemayehu](https://www.linkedin.com/in/tadesse-alemayehu-60141a221/)
-
-👤 **Juan Luis Palacios**
-
-- GitHub: [@JuanLPalacios](https://github.com/JuanLPalacios)
-- Twitter: [@JuanLuisPalac20](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/juan-luis-palacios-p%C3%A9rez-95b39a228/)
-
-👤 **Joshua Ivie**
-
-- GitHub: [@joshuaivie](https://github.com/joshuaivie)
-- Twitter: [@joshuaivie\_](https://twitter.com/joshuaivie_)
-- LinkedIn: [joshuaivie](https://linkedin.com/in/joshuaivie)
 
 ## 🤝 Contributing
 
